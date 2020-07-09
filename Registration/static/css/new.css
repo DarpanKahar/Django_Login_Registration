@@ -1,0 +1,39 @@
+div {
+    background-color: #DAD2D8;
+    color: #143642;
+    margin: 0px 10px 0px 10px;
+    
+
+    /* text-align: center; */
+  }
+  #first{
+    background-color: #DAD2D8;
+    padding: 25px;
+    text-align: center;
+    border: 3px solid red;
+    /* margin: 0px 0px 0px 00px; */
+    color: #143642;
+  }
+
+  body{
+    /* background-color: #143642; */
+    background: url('http://3.bp.blogspot.com/-l-zaSJBdoAs/Uh8sILxU_aI/AAAAAAAABa8/BKR86LdyftQ/s1600/Background-Xhtml2.jpg');
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+  }
+  li a{
+    /* align-content: center; */
+    color: #143642;
+  }
+
+  .jumbutron{
+    color: #143642;
+    border: 3px solid red;
+    /* margin-top: 25px; */
+    padding: 10px 10px 10px 10px;
+    
+    margin: 30px 0px 0px 0px ;
+    /* padding: 20px; */
+
+  }
